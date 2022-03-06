@@ -1,0 +1,30 @@
+{
+  "name": {
+    "zh-cn": "TM1637数码管",
+    "en": "TM1637 DigitalTube"
+  },
+  "description": {
+    "zh-cn": "输出显示数字或时间。",
+    "en": "Output display number or time."
+  },
+  "author": "XieBrok",
+  "email": "492874493@qq.com",
+  "license": "MIT",
+  "isTest": true,
+  "isBoard": true,
+  "id": "TM1637DigitalTube",
+  "platform": [
+    "win"
+  ],
+  "version": "0.0.1",
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.0.1",
+      "board": [
+        "microbit","firebeetleesp32"
+      ],
+      "main": "main.ts"
+    }
+  }
+}
