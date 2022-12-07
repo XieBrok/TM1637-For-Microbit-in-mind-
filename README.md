@@ -1,3 +1,1 @@
-# TM1637-For-Microbit-in-mind
-好家伙，你都找到这来了，不给点个星？
-这是我他妈为科技界作品魔改的库，bug可能很多，可以给492874493@qq.com发邮箱反馈
+# TM1637-For-Microbit-in-mindplus
